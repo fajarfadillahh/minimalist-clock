@@ -89,3 +89,12 @@ body {
   height: 120px;
   background: #254bf3;
 }
+
+.digitalClock {
+  display: flex;
+  justify-content: center;
+  font-size: 38px;
+  font-weight: bold;
+  color: #fff;
+  margin-top: 30px;
+}
